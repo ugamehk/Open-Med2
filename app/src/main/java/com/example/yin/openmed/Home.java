@@ -1,5 +1,4 @@
 package com.example.yin.openmed;
-
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
