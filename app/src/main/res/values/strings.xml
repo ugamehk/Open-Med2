@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Open Med</string>
-    <string name="textView1">依時赴「藥」</string>
+    <string name="app_name">Home</string>
+    <string name="textView">依時赴「藥」</string>
 </resources>
