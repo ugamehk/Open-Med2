@@ -27,6 +27,7 @@
                     android:host="www.open-med.com" />
             </intent-filter>
         </activity>
+        <receiver android:name=".AlarmReceiver" />
     </application>
 
 </manifest>
