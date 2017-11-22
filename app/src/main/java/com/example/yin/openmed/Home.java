@@ -17,6 +17,6 @@ public class Home extends AppCompatActivity {
         Calendar calendar = Calendar.getInstance();
         calendar.add(Calendar.SECOND,5);
 
-        PendingIntent.getBroadcast(this, 100, new Intent(""))
+        //PendingIntent.getBroadcast(this, 100, new Intent(""));
     }
 }
