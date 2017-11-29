@@ -26,17 +26,18 @@
         android:id="@+id/Set_up"
         android:layout_width="304dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="0dp"
         android:layout_marginEnd="4dp"
+        android:layout_marginTop="0dp"
         android:layout_marginStart="4dp"
         android:layout_marginBottom="0dp"
         android:text="@string/Set_up"
         android:textSize="16sp"
         android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/Qty_Check"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="217dp" />
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <Button
         android:id="@+id/Qty_Check"
