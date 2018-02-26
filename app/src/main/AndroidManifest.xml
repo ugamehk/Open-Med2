@@ -32,7 +32,8 @@
             android:label="@string/title_activity_settings" />
         <activity android:name=".MedicineSettingActivity" />
         <activity android:name=".TimeSettingActivity" />
-        <activity android:name=".InfoActivity"></activity>
+        <activity android:name=".InfoActivity" />
+        <activity android:name=".AlarmActivity"></activity>
     </application>
 
 </manifest>

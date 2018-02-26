@@ -23,7 +23,7 @@ public class Home1 extends AppCompatActivity {
     }
     public void changeView2(View view) {
         // Do something in response to button
-        Intent intent = new Intent(this, InfoActivity.class);
+        Intent intent = new Intent(this, AlarmActivity.class);
         startActivity(intent);
     }
 }
